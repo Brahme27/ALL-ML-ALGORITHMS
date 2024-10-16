@@ -1,0 +1,16 @@
+scikit-learn
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+streamlit
+ipython
+html5lib
+lxml
+beautifulsoup4
+imblearn
+openpyxl
+statsmodels
+plotly
